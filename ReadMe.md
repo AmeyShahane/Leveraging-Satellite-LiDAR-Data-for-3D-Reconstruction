@@ -25,3 +25,12 @@ If you do not have Jupyter Notebook installed, you may need to run:
 `conda install jupyter notebook`
 
 
+### GEDI Finder
+- stuff
+- stuff
+- stuff
+
+### GEDI Level 1B Data 
+The GEDI level 1B data contains the processed waveform data. These waveforms can be used get the elevation information. A jupyter notebook to process level 1B data is in the directory 'GEDI_Level_1B_Data'
+
+

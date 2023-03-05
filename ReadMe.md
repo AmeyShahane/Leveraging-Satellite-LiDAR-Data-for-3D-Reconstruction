@@ -24,7 +24,7 @@ If you do not have Jupyter Notebook installed, you may need to run:
 
 `conda install jupyter notebook`
 
-the same setup and dependencies can be achieved by using another package manager such as `pip`.
+the same setup and dependencies can be achieved by using another package manager such as `pip`
 
 
 ### GEDI Finder
@@ -35,5 +35,5 @@ You can use another script `DAACDataDownload.py` to download all the data files.
 ### GEDI Level 1B Data 
 The GEDI level 1B data contains the processed waveform data. These waveforms can be used get the elevation information. A jupyter notebook to process level 1B data is in the directory 'GEDI_Level_1B_Data'  
 The file 'RIT.geojson' stores the geographical boundries of the Rochester Institute of Technology, Rochester New York campus. We will use this file as our area of interest.
-
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 

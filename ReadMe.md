@@ -24,6 +24,8 @@ If you do not have Jupyter Notebook installed, you may need to run:
 
 `conda install jupyter notebook`
 
+the same setup and dependencies can be achieved by using another package manager such as `pip`.
+
 
 ### GEDI Finder
 - stuff

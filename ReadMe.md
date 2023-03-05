@@ -36,5 +36,5 @@ You can use another script `DAACDataDownload.py` to download all the data files.
 The GEDI level 1B data contains the processed waveform data. These waveforms can be used get the elevation information. A jupyter notebook to process level 1B data is in the directory 'GEDI_Level_1B_Data'  
 The file 'RIT.geojson' stores the geographical boundries of the Rochester Institute of Technology, Rochester New York campus. We will use this file as our area of interest.
 
-:star: You can use data downloader script from GEDI Finder to get required data. Alternatively you can visit the [NASA Earthdata Search website](https://search.earthdata.nasa.gov/search) to download the required data
+:bulb: You can use data downloader script from GEDI Finder to get required data. Alternatively you can visit the [NASA Earthdata Search website](https://search.earthdata.nasa.gov/search) to download the required data
 

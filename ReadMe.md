@@ -31,6 +31,7 @@ If you do not have Jupyter Notebook installed, you may need to run:
 - stuff
 
 ### GEDI Level 1B Data 
-The GEDI level 1B data contains the processed waveform data. These waveforms can be used get the elevation information. A jupyter notebook to process level 1B data is in the directory 'GEDI_Level_1B_Data'
+The GEDI level 1B data contains the processed waveform data. These waveforms can be used get the elevation information. A jupyter notebook to process level 1B data is in the directory 'GEDI_Level_1B_Data'  
+The file 'RIT.geojson' stores the geographical boundries of the campus of Rochester Institute of Technology, Rochester New York campus. We will use this file as our area of interest.
 
 

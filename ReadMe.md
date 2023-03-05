@@ -14,11 +14,11 @@ The project uses Python version 3.7. Create a conda environment and install foll
 
 You can use the following command to create a new conda environment and install the required libraries. 
 
-`conda create -n geditutorial -c conda-forge --yes python=3.7 h5py shapely geopandas pandas geoviews holoviews`
+`conda create -n GEDI -c conda-forge --yes python=3.7 h5py shapely geopandas pandas geoviews holoviews`
 
 Activate the environment.
 
-`conda activate geditutorial`
+`conda activate GEDI`
 
 If you do not have Jupyter Notebook installed, you may need to run:
 

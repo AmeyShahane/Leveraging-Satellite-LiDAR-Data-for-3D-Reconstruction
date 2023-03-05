@@ -28,9 +28,9 @@ the same setup and dependencies can be achieved by using another package manager
 
 
 ### GEDI Finder
-- stuff
-- stuff
-- stuff
+GEDI Orbit granules over a certion region can be found using a GEDI Finder. A bounding box can be defined using Longitude and Lattitude and the script query the base CMR granule search url to get a list of all the orbit granules over Area of interest.  
+You can use another script `DAACDataDownload.py` to download all the data files. The execution command to data downloader script is as below  
+`python DAACDataDownload.py -dir <insert local directory to save files to> -f <insert a single granule URL, or the location of a csv or text file containing granule URLs>`
 
 ### GEDI Level 1B Data 
 The GEDI level 1B data contains the processed waveform data. These waveforms can be used get the elevation information. A jupyter notebook to process level 1B data is in the directory 'GEDI_Level_1B_Data'  
